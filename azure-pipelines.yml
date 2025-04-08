@@ -15,9 +15,9 @@ steps:
     version: '6.x'
 
 - task: NodeTool@0
-displayName: 'Run Node install'
-inputs:
-versionSpec: '14.x'
+  displayName: 'Run Node install'
+  inputs:
+    versionSpec: '14.x'
 
 - task: Npm@1
   displayName: 'Run npm install'
