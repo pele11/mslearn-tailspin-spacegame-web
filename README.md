@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/peterlessle/Space%20Game%20-%20web%20-%20Tests/_apis/build/status%2Fpele11.mslearn-tailspin-spacegame-web?branchName=failed-test)](https://dev.azure.com/peterlessle/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=3&branchName=failed-test)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
